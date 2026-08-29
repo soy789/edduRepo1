@@ -1,3 +1,10 @@
 {  "new_field": "значение"}
 {  "new_field": "значение",  "second_field": "другое значение"} 
 {  "user": {    "name": "Иван",    "age": 25  }}
+{  "user": {    "name": "Мария",    "age": 30  },  "location": "Москва"
+}
+{  "user": {    "name": "Алексей",    "age": 28  },  "location": "Санкт-Петербург",  "is_active": true}
+{  "user": {    "name": "Екатерина",    "age": 22  },  "location": "Новосибирск",  "is_active": false,  "roles": ["admin", "editor"]
+}
+{  "user": {    "name": "Дмитрий",    "age": 35  },  "location": "Екатеринбург",  "is_active": true,  "roles": ["user"],  "preferences": {    "theme": "dark",    "notifications": true  }}
+
